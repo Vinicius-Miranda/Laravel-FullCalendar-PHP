@@ -1,2 +1,4 @@
 $ cat .gitattributes
+* linguist-vendored
+*.js linguist-vendored=false
 *.rb linguist-language=PHP
